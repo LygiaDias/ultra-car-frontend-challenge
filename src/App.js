@@ -22,7 +22,6 @@ function App() {
       <Route exact path="/contacts/:id" component={ Edit } />
       <Route exact path="/collaborators/" component={ Collaborator } />
       <Route exact path="/collaborator/:id" component={ CollaboratorDetails } />
-      <Route exact path="/test/:id" component={ Test } />
       <Route exact path="/services" component={ Services} />
       <Route exact path="/register-parts" component={ RegisterParts} />
       <Route exact path="/services/:id" component={ ServicesDetails} />

@@ -1,0 +1,74 @@
+.create-tittle {
+  font-size: 26px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: rgb(9, 82, 124);
+}
+
+.tittle-container {
+  text-align: center;
+}
+
+.create-service-form {
+  display: flex;
+  flex-direction: column;
+  margin-right: 10%;
+  margin-top: -15px;
+}
+
+.create-input {
+  background-color: rgb(233, 240, 245);
+  border: none;
+  color: rgb(3, 1, 1);
+  margin: 5px;
+  height: 25px;
+  border-radius: 5px;
+  width: 500px;
+  height: 45px;
+}
+
+.label {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  color: rgb(9, 82, 124);
+  text-align: left;
+}
+
+.create-service-button {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: rgb(77, 157, 203);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  width: 500px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.finish-service-button {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: rgb(77, 157, 203);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  width: 500px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  margin-left: 30%;
+  border: none;
+}
+
+.content-container {
+  display: flex;
+
+  justify-content: center;
+  gap: 80px;
+  margin-top: 100px;
+}
+
+.service-image {
+  height: 400px;
+  margin-left: 10%;
+}

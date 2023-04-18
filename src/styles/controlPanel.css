@@ -1,0 +1,28 @@
+.image {
+  text-align: center;
+}
+
+.logo {
+  width: 800px;
+}
+
+.links-container {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  margin-top: 50px;
+}
+
+.button-panel {
+  padding: 20px;
+  border-radius: 8px;
+  background-color: rgb(77, 157, 203);
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+}
+
+body {
+  background-color: white;
+}

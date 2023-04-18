@@ -31,7 +31,9 @@ Boas vindas ao repositório do Ultra-Car-Challenge! A aplicação consiste em um
 
 3. Inicie a aplicação
 
-- `npm start`
+- `npm start` 
+
+Obs: O projeto é compatível com Node Versão 16.20.0
 
 
 ### Testando a aplicação

@@ -36,7 +36,7 @@ const CollaboratorDetail = () => {
 
   return (
     <>
-      <Link to="/contacts">
+      <Link to="/collaborators">
         <button
           type="button"
           data-testid="edit-btn"

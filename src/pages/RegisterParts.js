@@ -66,7 +66,7 @@ function RegisterParts() {
             type="submit"
             onClick={handleSubmit}
           >
-            Finalizar Serviço
+            Registrar Peça
           </button>
         </form>
       </div>

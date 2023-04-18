@@ -100,7 +100,7 @@ const ClientDetail = () => {
         )}
       </div>
      <div className='button-container'>
-      <Link to={`/test/${id}`} >
+      <Link to={`/create/${id}`} >
         <button type="button" data-testid="edit-btn" className="create-service-button">
           Criar Serviço
         </button>

@@ -97,14 +97,7 @@ const CollaboratorDetail = () => {
           </table>
         )}
       </div>
-     <div className='button-container'>
-      <Link to={`/test/${id}`} >
-        <button type="button" data-testid="edit-btn" className="create-service-button">
-          Criar Serviço
-        </button>
-      </Link>
-
-     </div>
+    
     </>
   );
 };
